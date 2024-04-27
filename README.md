@@ -6,14 +6,17 @@ It is a copy from ITs lintar
 
  Unzip the files 
 ```installation
-git clone https://github.com/Arxuishere/Mionet
+git clone https://github.com/Arxuishere/SaitamaV2
 
-unzip ITS2.1.zip
+unzip Saitamav2
 
 ## Usage
 
-```python3 tools.name
+```f*k it up
+```
 
 
 #ARXU
-```MADE BY ARXU
+```
+MADE BY ARXU
+```
